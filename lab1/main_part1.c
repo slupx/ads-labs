@@ -15,7 +15,7 @@ int main() {
   } else {
     if (x < -20) {
       if (x >= -32) {
-        y = x * x -3;
+        y = x * x - 3;
         is_defined = 1;
       }
     } else {
